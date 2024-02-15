@@ -16,6 +16,13 @@ volta install node
 npm install
 ```
 
+## Project Setup Log
+
+```sh
+# https://ja.vuejs.org/guide/scaling-up/tooling#vite
+npm create vue@latest
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
@@ -34,6 +41,10 @@ npm run build
 npm run lint
 ```
 
+## 参考
+
+- [PrettierとESLintをVSCodeで使う（Vue） #Vue.js - Qiita](https://qiita.com/kokogento/items/b939fc3664d46b724d3e)
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
@@ -41,4 +52,3 @@ npm run lint
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
-
