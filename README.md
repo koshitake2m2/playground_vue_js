@@ -1,6 +1,10 @@
 # playground_vue_js
 
-This template should help get you started developing with Vue 3 in Vite.
+## abstract
+
+- javascript
+- vue 3
+  - Options API
 
 ## Command Line Setup
 
@@ -44,6 +48,8 @@ npm run lint
 ## 参考
 
 - [PrettierとESLintをVSCodeで使う（Vue） #Vue.js - Qiita](https://qiita.com/kokogento/items/b939fc3664d46b724d3e)
+- [Vue3の衰退を招いたのは&lt;script setup&gt;とCompositionAPIかもしれない という考察 #Vue.js - Qiita](https://qiita.com/fruitriin/items/81691ce68cf3678f3bda)
+- [【周りに流されるな！😱】人気なReactよりも初心者にVueがおすすめな理由 4選 🐳 #JavaScript - Qiita](https://qiita.com/kouphasi/items/bad24618a84d753da6cd)
 
 ## Recommended IDE Setup
 
